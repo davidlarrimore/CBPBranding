@@ -1,0 +1,18 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "CBP Branding",
+            "versionName": "Version 1",
+            "versionNumber": "1.1.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "CBP Branding": "0Ho4W000000wkJNSAY",
+        "CBP Branding@0.1.0-1": "04t4W0000038TK6QAM"
+    }
+}
